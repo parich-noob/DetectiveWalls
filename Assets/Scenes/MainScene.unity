@@ -4372,7 +4372,7 @@ MonoBehaviour:
   suspectPrefab: {fileID: 4862764405589048909, guid: b194706394987ee4bac2cc01d8255681, type: 3}
   letterPrefab: {fileID: 451944873913154258, guid: aecff2d9379445e48ab619d731183fc1, type: 3}
   safePrefab: {fileID: 976864206344268034, guid: 1333e033ecc08834d826deb683041d54, type: 3}
-  safeUIManager: {fileID: 0}
+  safeUIManager: {fileID: 155248930}
 --- !u!1 &947247389
 GameObject:
   m_ObjectHideFlags: 0
