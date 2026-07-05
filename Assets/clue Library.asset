@@ -26,7 +26,7 @@ MonoBehaviour:
       m_GuidLow: 13282254452946916491
       m_GuidHigh: 6591407107944633032
     m_Size: {x: 0.21, y: 0.2970484}
-    m_SpecifySize: 0
+    m_SpecifySize: 1
     m_Name: Suspect
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
@@ -35,8 +35,8 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 9202012135355395078
       m_GuidHigh: 13882339278680320347
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 0.21, y: 0.2970484}
+    m_SpecifySize: 1
     m_Name: Letter
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
@@ -45,7 +45,7 @@ MonoBehaviour:
     m_SerializedTextureGuid:
       m_GuidLow: 4387870744105118870
       m_GuidHigh: 17948855582466277561
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 0.21, y: 0.2970484}
+    m_SpecifySize: 1
     m_Name: Safe
     m_Texture: {fileID: 0}
